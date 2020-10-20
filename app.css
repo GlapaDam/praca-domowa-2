@@ -1,0 +1,14 @@
+h1 {
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+div {
+    text-align: left;
+    line-height: 50px;
+}
+
+span {
+    font-weight: 700;
+}

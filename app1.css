@@ -1,0 +1,19 @@
+.spotkac :last-child {
+    text-decoration: line-through;
+}
+
+.słabe ul:nth-child(even) {
+    background-color: lightgreen;
+}
+
+.słabe ul:nth-child(odd) {
+    background-color: royalblue
+}
+
+.mocne ul:nth-child(even) {
+    background-color: lightgreen;
+}
+
+.mocne ul:nth-child(odd) {
+    background-color: royalblue
+}
